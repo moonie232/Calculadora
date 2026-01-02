@@ -1,1 +1,12 @@
-Fiz essa calculadora usando como base o código do site Código facil, é um dos meu primeiros projetos feitos em Html
+# Calculadora
+
+Projeto de uma calculadora simples feita com HTML, CSS e JavaScript.
+
+## Como usar
+Abra `index.html` no navegador.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
